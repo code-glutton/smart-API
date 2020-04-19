@@ -2,8 +2,9 @@
   "name": "node",
   "version": "1.0.0",
   "main": "script.js",
+  "description": "",
   "scripts": {
-    "start": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -16,9 +17,5 @@
     "express": "^4.16.2",
     "knex": "^0.19.5",
     "pg": "^7.4.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.12.7"
-  },
-  "description": ""
+  }
 }
